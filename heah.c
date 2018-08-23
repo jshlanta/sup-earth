@@ -1,5 +1,5 @@
 /**
- * Author: Joe Shlanta
+ * Author: Joe Shlanta and Matthew Fiscus
  * Date: 8/23/18
  * 
  * its like hello world but in C and cooler
@@ -10,7 +10,7 @@
 
 int main( int argc,char **argv) {
 	
-	printf("Joe Shlanta, Computer Science.\n");
+	printf("Joe Shlanta, Computer Science. Matthew Fiscus, Computer Science.\n");
 	
 	return 0;
 }
